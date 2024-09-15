@@ -58,7 +58,7 @@
 <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Honghung123&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </p>
 <b>Note:</b> That profile stats above maybe reflect that my experience or skill level has a big problem.
-<br clear="both">
+<br clear="both"><br>
 
 <p align="center">
       <img src="https://komarev.com/ghpvc/?username=Honghung123&label=Profile+Views" alt="Hong Hung" />
