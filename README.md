@@ -1,6 +1,8 @@
 <img align="right" width=100% height=150px alt="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1290deb9-28b6-4803-8d2f-b75c7bc65504/d54pfmo-7611bc70-4791-4a54-8212-f6b3d1ee1f9d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyOTBkZWI5LTI4YjYtNDgwMy04ZDJmLWI3NWM3YmM2NTUwNFwvZDU0cGZtby03NjExYmM3MC00NzkxLTRhNTQtODIxMi1mNmIzZDFlZTFmOWQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.JJgcs2Z4BsLG5RjD_IGr4GfASUXd6UKEzRzGaWGbRV4" src="https://i.imgur.com/pryO0J5.gif" />
 
-<h3 align="center">Java Backend Coder</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=3000&lines=Java+Backend+Coder;+I'm+Dam+Hong+Hung!;" />
+</h1>
 <p align="center">
   <em>
     I watch videos on Youtube every day to motivate myself to become <b>a professional Java backend coder</b>.     
@@ -15,9 +17,11 @@
 <img align="right" width=220px alt="side_sticker" src="https://66.media.tumblr.com/tumblr_maiubbMXhC1rfjowdo1_r1_1280.gif" />
 
 ### <img src="https://64.media.tumblr.com/44d4fb34d7d9a0407c8fd5520e2c3123/tumblr_nago0vkGOD1tbhv9ro1_500.gif" width="30px" height="30px"> ***About me***
-🌱 I'm learning ***Docker***, ***Microservice***<br>
+🌱 I'm currently learning ***Docker***, ***Redis***, ***Firebase***, ***Microservice***<br>
 🏆 I usually work with ***Java*** and ***Spring Boot***<br>
-🫸 <b>My cv: [Dam Hong Hung CV](https://drive.google.com/file/d/1KwfpxQAVJ2FyxP1gehBB2116uP-aBqPv/view?usp=sharing)<b>
+🫸 <b>My CV: <a href="https://drive.google.com/file/d/1KwfpxQAVJ2FyxP1gehBB2116uP-aBqPv/view?usp=sharing" target="_blank">
+     <img height=20px src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a><b>
 
 ### ***🛠 Tools & Technologies***
 #### Front-end:
@@ -39,12 +43,15 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 
 ### <img src="https://www.piskelapp.com/static/resources/home/features/feature-open-source@2x.gif" width="25px" height="25px"> ***My Stats***
-<p align="left">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Honghung123&layout=compact&langs_count=8&theme=cobalt&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Honghung123&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+<p align="center">
+  <img height=190 align="left" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Honghung123&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img height=190 align="right" src="https://github-readme-stats-salesp07.vercel.app/api?username=Honghung123&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 <br>
-<b>Note:</b> That profile stats above maybe reflect that my experience or skill level has a big problem.
+<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Honghung123&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<br>
 </p>
+<b>Note:</b> That profile stats above maybe reflect that my experience or skill level has a big problem.<br>
+
 <p align=center>
   <i>⚡ Recent GitHub Activity</i>
   <br>
