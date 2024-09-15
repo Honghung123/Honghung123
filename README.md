@@ -14,7 +14,7 @@
 <img width=70% height=60px src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1290deb9-28b6-4803-8d2f-b75c7bc65504/d54pfmo-7611bc70-4791-4a54-8212-f6b3d1ee1f9d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyOTBkZWI5LTI4YjYtNDgwMy04ZDJmLWI3NWM3YmM2NTUwNFwvZDU0cGZtby03NjExYmM3MC00NzkxLTRhNTQtODIxMi1mNmIzZDFlZTFmOWQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.JJgcs2Z4BsLG5RjD_IGr4GfASUXd6UKEzRzGaWGbRV4" alt="https://i.imgur.com/pryO0J5.gif" />
 </p>
 
-<img align="right" width=220px height=550px alt="side_sticker" src="https://66.media.tumblr.com/tumblr_maiubbMXhC1rfjowdo1_r1_1280.gif" />
+<img align="right" width=220px height=570px alt="side_sticker" src="https://66.media.tumblr.com/tumblr_maiubbMXhC1rfjowdo1_r1_1280.gif" />
 
 ### <img src="https://64.media.tumblr.com/44d4fb34d7d9a0407c8fd5520e2c3123/tumblr_nago0vkGOD1tbhv9ro1_500.gif" width="30px" height="30px"> ***About me***
 🌱 I'm currently learning ***Docker*** <img src="https://skillicons.dev/icons?i=docker" width=13px/>, ***Redis*** <img src="https://skillicons.dev/icons?i=redis" width=13px/>, ***Firebase*** <img src="https://skillicons.dev/icons?i=firebase" width=13px/>, ***Microservice*** <img src="https://skillicons.dev/icons?i=kubernetes" width=13px/><br>
@@ -28,7 +28,7 @@
     	<a href="https://www.facebook.com/ThisAccountHasBeenBlocked"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="30" alt="facebook logo"  /></a>
 	<a href="https://www.linkedin.com/in/honghung123"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  /></a>
 	<a href="mailto:damhonghung123@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  /></a>
-	<a href="mailto:damhonghung123@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  /></a>
+	<a href="youtube.com/@hunghong9632"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  /></a>
   </p>
 
 ### ***🛠 Tech stack***
