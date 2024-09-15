@@ -44,11 +44,10 @@
 
 ### <img src="https://www.piskelapp.com/static/resources/home/features/feature-open-source@2x.gif" width="25px" height="25px"> ***My Stats***
 <p align="center">
-  <img height=191 align="left" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Honghung123&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <img height=191 align="right" src="https://github-readme-stats-salesp07.vercel.app/api?username=Honghung123&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-<br>
+  <img height=191.5 align="left" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Honghung123&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img height=191.5 align="right" src="https://github-readme-stats-salesp07.vercel.app/api?username=Honghung123&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<br><br>
 <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Honghung123&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-<br>
 </p>
 <b>Note:</b> That profile stats above maybe reflect that my experience or skill level has a big problem.<br>
 
