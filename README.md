@@ -17,10 +17,10 @@
 <img align="right" width=220px alt="side_sticker" src="https://66.media.tumblr.com/tumblr_maiubbMXhC1rfjowdo1_r1_1280.gif" />
 
 ### <img src="https://64.media.tumblr.com/44d4fb34d7d9a0407c8fd5520e2c3123/tumblr_nago0vkGOD1tbhv9ro1_500.gif" width="30px" height="30px"> ***About me***
-🌱 I'm currently learning ***Docker***, ***Redis***, ***Firebase***, ***Microservice***<br>
-🏆 I usually work with ***Java*** and ***Spring Boot***<br>
+🌱 I'm currently learning ***Docker*** <img src="https://skillicons.dev/icons?i=docker" width=13px/>, ***Redis*** <img src="https://skillicons.dev/icons?i=redis" width=13px/>, ***Firebase*** <img src="https://skillicons.dev/icons?i=firebase" width=13px/>, ***Microservice*** <img src="https://skillicons.dev/icons?i=kubernetes" width=13px/><br>
+🏆 I usually work with ***Java*** <img src="https://skillicons.dev/icons?i=java" width=13px/> and ***Spring Boot*** <img src="https://skillicons.dev/icons?i=spring" width=13px/><br>
 🫸 <b>My CV: <a href="https://drive.google.com/file/d/1KwfpxQAVJ2FyxP1gehBB2116uP-aBqPv/view?usp=sharing" target="_blank">
-     <img height=20px src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+     <img height=17px src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" border-radis=5px/>
   </a><b>
 
 ### ***🛠 Tools & Technologies***
@@ -49,7 +49,7 @@
 <br><br>
 <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Honghung123&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </p>
-<b>Note:</b> That profile stats above maybe reflect that my experience or skill level has a big problem.<br>
+<b>Note:</b> That profile stats above maybe reflect that my experience or skill level has a big problem.<br><br>
 
 <p align=center>
   <i>⚡ Recent GitHub Activity</i>
