@@ -14,8 +14,7 @@
 
 <img align="right" width=220px alt="side_sticker" src="https://66.media.tumblr.com/tumblr_maiubbMXhC1rfjowdo1_r1_1280.gif" />
 
-### <img src="./images/stats.gif" width="30px" height="30px"> ***About me***
-
+### <img src="https://64.media.tumblr.com/44d4fb34d7d9a0407c8fd5520e2c3123/tumblr_nago0vkGOD1tbhv9ro1_500.gif" width="30px" height="30px"> ***About me***
 🌱 I'm learning ***Docker***, ***Microservice***<br>
 🏆 I usually work with ***Java*** and ***Spring Boot***<br>
 
@@ -26,26 +25,23 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp; 
 #### Back-end:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-
 #### Another:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
-### ***My Stats***
 
+### <img src="https://www.piskelapp.com/static/resources/home/features/feature-open-source@2x.gif" width="25px" height="25px"> ***My Stats***
 <p align="left">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Honghung123&layout=compact&langs_count=8&theme=cobalt&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Honghung123&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
-  
 <br>
 <b>Note:</b> That profile stats above maybe reflect that my experience or skill level has a big problem.
 </p>
-
 <p align=center>
   <i>⚡ Recent GitHub Activity</i>
   <br>
@@ -53,20 +49,15 @@
   <br/>
 </p>
 
-![divider](./images/divider.gif)
-
-<p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
-
+### <img src="https://img1.picmix.com/output/stamp/normal/0/8/5/6/1756580_06d42.gif" width="30px" height="30px">  Contact me: 
+<p align="center"> 
   <p align="left">
-    	<code><a href="https://www.facebook.com/ThisAccountHasBeenBlocked"><img width="30px" src="./images/facebook.png" title="Facebook"/></a></code>
-	<code><a href="https://www.linkedin.com/in/honghung123"><img width="30px" src="./images/linkedin.png" title="Linkedin"/></a></code> 
-	<code><a href="mailto:damhonghung123@gmail.com"><img width="30px" src="./images/gmail.png" title="Gmail"/></a></code>
-  </p>
-
-  <p align="center">
-      <img src="https://komarev.com/ghpvc/?username=Honghung123&label=Profile+Views" alt="Hong Hung" />
+    	<a href="https://www.facebook.com/ThisAccountHasBeenBlocked"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" title="Facebook"/></a>
+	<a href="https://www.linkedin.com/in/honghung123"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" title="Linkedin"/></a>
+	<a href="mailto:damhonghung123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"/></a>
   </p>
 </p>
-
+<p align="center">
+      <img src="https://komarev.com/ghpvc/?username=Honghung123&label=Profile+Views" alt="Hong Hung" />
+</p>
 <img align="right" width=100% alt="https://64.media.tumblr.com/4b058cecd1611553bf11d968559389a8/9cef6d1425b04a53-66/s500x750/86ccb5c395543d8da558db5f75599a2fd0bcbb21.gifv" src="https://media.tenor.com/JZGoT3BexZQAAAAi/horses-transparent.gif" />
