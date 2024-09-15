@@ -62,13 +62,16 @@
 
 <p align="center">
       <img src="https://komarev.com/ghpvc/?username=Honghung123&label=Profile+Views" alt="Hong Hung" />
+      <a href="https://github.com/Honghung123?tab=followers">
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/Honghung123?color=green&logo=github">
+  </a>
 </p>
 <img align="right" width=100% alt="https://64.media.tumblr.com/4b058cecd1611553bf11d968559389a8/9cef6d1425b04a53-66/s500x750/86ccb5c395543d8da558db5f75599a2fd0bcbb21.gifv" src="https://media.tenor.com/JZGoT3BexZQAAAAi/horses-transparent.gif" />
 
 <-- 
 Specially thank to references:
 - Github readme generator: https://rahuldkjain.github.io/gh-profile-readme-generator
-- Github icon: https://github.com/tandpfun/skill-icons
+- Github icon: https://github.com/tandpfun/skill-icons, https://profile-readme-generator.com/
 - Github badges: https://github.com/alexandresanlim/Badges4-README.md-Profile
 - Typing svg: https://github.com/DenverCoder1/readme-typing-svg
 - Github stats: https://github.com/DenverCoder1/github-readme-streak-stats
