@@ -20,7 +20,7 @@
 🌱 I'm currently learning ***Docker*** <img src="https://skillicons.dev/icons?i=docker" width=13px/>, ***Redis*** <img src="https://skillicons.dev/icons?i=redis" width=13px/>, ***Firebase*** <img src="https://skillicons.dev/icons?i=firebase" width=13px/>, ***Microservice*** <img src="https://skillicons.dev/icons?i=kubernetes" width=13px/><br>
 🏆 I usually work with ***Java*** <img src="https://skillicons.dev/icons?i=java" width=13px/> and ***Spring Boot*** <img src="https://skillicons.dev/icons?i=spring" width=13px/><br>
 🫸 <b>My CV: <a href="https://drive.google.com/file/d/1KwfpxQAVJ2FyxP1gehBB2116uP-aBqPv/view?usp=sharing" target="_blank">
-     <img height=17px src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" border-radis=5px/>
+     <img align="center" height=25px src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" border-radis=5px/>
   </a></b>
   
 ### <img src="https://img1.picmix.com/output/stamp/normal/0/8/5/6/1756580_06d42.gif" width="25px" height="25px">  Contact with me: 
@@ -54,7 +54,7 @@
 <p align="center">
   <img height=191 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Honghung123&hide=HTML&langs_count=8&layout=compact&theme=cobalt&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   <img height=191 src="https://github-readme-stats-salesp07.vercel.app/api?username=Honghung123&count_private=true&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" alt="readme stats" />
-<br><br>
+<br>
 <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Honghung123&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </p>
 <b>Note:</b> That profile stats above maybe reflect that my experience or skill level has a big problem.
