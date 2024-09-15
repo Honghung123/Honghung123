@@ -37,8 +37,8 @@
 
 ### <img src="https://www.piskelapp.com/static/resources/home/features/feature-open-source@2x.gif" width="25px" height="25px"> ***My Stats***
 <p align="left">
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Honghung123&layout=compact&langs_count=8&theme=cobalt&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Honghung123&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Honghung123&layout=compact&langs_count=8&theme=cobalt&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Honghung123&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
 <br>
 <b>Note:</b> That profile stats above maybe reflect that my experience or skill level has a big problem.
 </p>
