@@ -16,14 +16,14 @@
 
 <img align="right" width=30% height=570px alt="side_sticker" src="https://66.media.tumblr.com/tumblr_maiubbMXhC1rfjowdo1_r1_1280.gif" />
 
-### <img src="https://64.media.tumblr.com/44d4fb34d7d9a0407c8fd5520e2c3123/tumblr_nago0vkGOD1tbhv9ro1_500.gif" width="30px" height="30px"> ***About me***
+### <img align="center" src="https://64.media.tumblr.com/44d4fb34d7d9a0407c8fd5520e2c3123/tumblr_nago0vkGOD1tbhv9ro1_500.gif" width="30px" height="30px"> ***About me***
 🌱 I'm currently learning ***Docker*** <img src="https://skillicons.dev/icons?i=docker" width=13px/>, ***Redis*** <img src="https://skillicons.dev/icons?i=redis" width=13px/>, ***Firebase*** <img src="https://skillicons.dev/icons?i=firebase" width=13px/>, ***Microservice*** <img src="https://skillicons.dev/icons?i=kubernetes" width=13px/><br>
 🏆 I usually work with ***Java*** <img src="https://skillicons.dev/icons?i=java" width=13px/> and ***Spring Boot*** <img src="https://skillicons.dev/icons?i=spring" width=13px/><br>
 🫸 <b>My CV: <a href="https://drive.google.com/file/d/1KwfpxQAVJ2FyxP1gehBB2116uP-aBqPv/view?usp=sharing" target="_blank">
      <img align="center" height=25px src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" border-radis=5px/>
   </a></b>
   
-### <img src="https://img1.picmix.com/output/stamp/normal/0/8/5/6/1756580_06d42.gif" width="25px" height="25px">  Contact with me: 
+### <img align="center" src="https://img1.picmix.com/output/stamp/normal/0/8/5/6/1756580_06d42.gif" width="25px" height="25px">  Contact with me: 
   <p align="left">
     	<a href="https://www.facebook.com/ThisAccountHasBeenBlocked"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="30" alt="facebook logo"  /></a>
 	<a href="https://www.linkedin.com/in/honghung123"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  /></a>
@@ -31,7 +31,7 @@
 	<a href="https://www.youtube.com/@hunghong9632"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  /></a>
   </p>
 
-### ***🛠 Tech stack***
+### <img align="center" src="https://media.licdn.com/dms/image/C5612AQHZ2Mn3fq85cg/article-cover_image-shrink_600_2000/0/1616673901760?e=2147483647&v=beta&t=QaYYKkQWUWdac3byMjQ-LILxwco0KYFSJvgeo8BH8IE" height="25px"> Tech stack:
 #### Front-end:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -50,7 +50,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 
-### <img src="https://www.piskelapp.com/static/resources/home/features/feature-open-source@2x.gif" width="25px" height="25px"> ***My Stats***
+### <img align="center" src="https://www.piskelapp.com/static/resources/home/features/feature-open-source@2x.gif" width="25px" height="25px"> ***My Stats***
 <p align="center">
   <img height=191 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Honghung123&hide=HTML&langs_count=8&layout=compact&theme=cobalt&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   <img height=191 src="https://github-readme-stats-salesp07.vercel.app/api?username=Honghung123&count_private=true&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" alt="readme stats" />
