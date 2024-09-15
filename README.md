@@ -23,7 +23,7 @@
      <img height=17px src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" border-radis=5px/>
   </a><b>
 
-### ***🛠 Tools & Technologies***
+### ***🛠 Tech stack***
 #### Front-end:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -44,29 +44,32 @@
 
 ### <img src="https://www.piskelapp.com/static/resources/home/features/feature-open-source@2x.gif" width="25px" height="25px"> ***My Stats***
 <p align="center">
-  <img height=191 align="left" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Honghung123&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <img height=191 align="right" src="https://github-readme-stats-salesp07.vercel.app/api?username=Honghung123&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img height=191 align="left" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Honghung123&hide=HTML&langs_count=8&layout=compact&theme=cobalt&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img height=191 align="right" src="https://github-readme-stats-salesp07.vercel.app/api?username=Honghung123&count_private=true&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" alt="readme stats" />
 <br><br>
 <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Honghung123&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </p>
-<b>Note:</b> That profile stats above maybe reflect that my experience or skill level has a big problem.<br><br>
+<b>Note:</b> That profile stats above maybe reflect that my experience or skill level has a big problem.<br clear="both">
+ 
+### <img src="https://img1.picmix.com/output/stamp/normal/0/8/5/6/1756580_06d42.gif" width="30px" height="30px">  Contact with me: 
 
-<p align=center>
-  <i>⚡ Recent GitHub Activity</i>
-  <br>
-   <img alt="Honghung123 github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Honghung123&bg_color=120c27&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" />
-  <br/>
-</p>
-
-### <img src="https://img1.picmix.com/output/stamp/normal/0/8/5/6/1756580_06d42.gif" width="30px" height="30px">  Contact me: 
-<p align="center"> 
-  <p align="left">
-    	<a href="https://www.facebook.com/ThisAccountHasBeenBlocked"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" title="Facebook"/></a>
-	<a href="https://www.linkedin.com/in/honghung123"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" title="Linkedin"/></a>
-	<a href="mailto:damhonghung123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"/></a>
+  <p align="center">
+    	<a href="https://www.facebook.com/ThisAccountHasBeenBlocked"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>
+	<a href="https://www.linkedin.com/in/honghung123"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+	<a href="mailto:damhonghung123@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
+	<a href="mailto:damhonghung123@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  /></a>
   </p>
-</p>
+
 <p align="center">
       <img src="https://komarev.com/ghpvc/?username=Honghung123&label=Profile+Views" alt="Hong Hung" />
 </p>
 <img align="right" width=100% alt="https://64.media.tumblr.com/4b058cecd1611553bf11d968559389a8/9cef6d1425b04a53-66/s500x750/86ccb5c395543d8da558db5f75599a2fd0bcbb21.gifv" src="https://media.tenor.com/JZGoT3BexZQAAAAi/horses-transparent.gif" />
+
+<-- 
+Specially thank to references:
+- Github readme generator: https://rahuldkjain.github.io/gh-profile-readme-generator
+- Github icon: https://github.com/tandpfun/skill-icons
+- Github badges: https://github.com/alexandresanlim/Badges4-README.md-Profile
+- Typing svg: https://github.com/DenverCoder1/readme-typing-svg
+- Github stats: https://github.com/DenverCoder1/github-readme-streak-stats
+--/>
