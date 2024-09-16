@@ -14,16 +14,16 @@
 <img width=70% height=60px src="./assets/images/heart_and_star_decorator.gif" alt="./assets/images/rainbow.gif" />
 </p>
 
-<img align="right" width=30% height=570px alt="side_sticker" src="./assets/images/ufo.gif" />
+<img align="right" width=30% height=600px alt="side_sticker" src="./assets/images/ufo.gif" />
 
 ### <img align="center" src="./assets/images/angel.gif" width="30px" height="30px"> **_About me_**
-
-🌱 I'm currently learning **_Docker_** <img src="https://skillicons.dev/icons?i=docker" width=13px/>, **_Redis_** <img src="https://skillicons.dev/icons?i=redis" width=13px/>, **_Firebase_** <img src="https://skillicons.dev/icons?i=firebase" width=13px/>, **_Microservice_** <img src="https://skillicons.dev/icons?i=kubernetes" width=13px/><br>
 🏆 I usually work with **_Java_** <img src="https://skillicons.dev/icons?i=java" width=13px/> and **_Spring Boot_** <img src="https://skillicons.dev/icons?i=spring" width=13px/><br>
+🌱 I'm currently learning **_Docker_** <img src="https://skillicons.dev/icons?i=docker" width=13px/>, **_Redis_** <img src="https://skillicons.dev/icons?i=redis" width=13px/>, **_Firebase_** <img src="https://skillicons.dev/icons?i=firebase" width=13px/>, <br>
+🎉 Next, I'm planning to explore **_Microservice_** <img src="https://skillicons.dev/icons?i=kubernetes" width=13px/>, **_ElasticSearch_** <img src="https://skillicons.dev/icons?i=elasticsearch" width=13px/>, and **_Kubernetes_** <img src="https://skillicons.dev/icons?i=kubernetes" width=13px/><br>
 🏃‍♀️‍➡️ Current GPA: 8.11/10. The goal for this semester is to have a grade of 8.7 or above in all remaining subjects to achieve a GPA of 8.3 🤧.<br>
-🫸 <b>My CV: <a href="https://drive.google.com/file/d/1KwfpxQAVJ2FyxP1gehBB2116uP-aBqPv/view?usp=sharing" target="_blank">
+🫸 <b>My CV: </b><a href="https://drive.google.com/file/d/1KwfpxQAVJ2FyxP1gehBB2116uP-aBqPv/view?usp=sharing" target="_blank">
 <img align="center" height=25px src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" border-radis=5px/>
-</a></b>
+</a> <i>(Last updated: 02/07/2024)<i>
 
 ### <img align="center" src="./assets/images/phone.gif" width="25px" height="25px"> Contact with me:
 
