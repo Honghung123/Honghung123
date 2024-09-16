@@ -20,7 +20,7 @@
 
 🌱 I'm currently learning **_Docker_** <img src="https://skillicons.dev/icons?i=docker" width=13px/>, **_Redis_** <img src="https://skillicons.dev/icons?i=redis" width=13px/>, **_Firebase_** <img src="https://skillicons.dev/icons?i=firebase" width=13px/>, **_Microservice_** <img src="https://skillicons.dev/icons?i=kubernetes" width=13px/><br>
 🏆 I usually work with **_Java_** <img src="https://skillicons.dev/icons?i=java" width=13px/> and **_Spring Boot_** <img src="https://skillicons.dev/icons?i=spring" width=13px/><br>
-🏃‍♀️‍➡️ Current GPA: 8.11/10. The goal for this semester is to have a grade of 8.7 or above in all remaining subjects to achieve a GPA of 8.3 🤧.
+🏃‍♀️‍➡️ Current GPA: 8.11/10. The goal for this semester is to have a grade of 8.7 or above in all remaining subjects to achieve a GPA of 8.3 🤧.<br>
 🫸 <b>My CV: <a href="https://drive.google.com/file/d/1KwfpxQAVJ2FyxP1gehBB2116uP-aBqPv/view?usp=sharing" target="_blank">
 <img align="center" height=25px src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" border-radis=5px/>
 </a></b>
