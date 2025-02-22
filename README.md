@@ -20,10 +20,10 @@
 🏆 I usually work with **_Java_** <img src="https://skillicons.dev/icons?i=java" width=13px/> and **_Spring Boot_** <img src="https://skillicons.dev/icons?i=spring" width=13px/><br>
 🌱 I'm currently learning **Message queue: Kafka and RabbitMQ** <br>
 🎉 Next, I'm planning to explore **_Microservice_** <img src="https://skillicons.dev/icons?i=kubernetes" width=13px/>, **_ElasticSearch_** <img src="https://skillicons.dev/icons?i=elasticsearch" width=13px/>, and **_Kubernetes_** <img src="https://skillicons.dev/icons?i=kubernetes" width=13px/><br>
-🏃‍♀️‍➡️ Current GPA: 8.25/10. The goal for this semester is to have a grade of 8.7 or above in all remaining subjects to achieve a GPA of 8.3 🤧.<br>
-🫸 <b>My CV: </b><a href="https://drive.google.com/file/d/1KwfpxQAVJ2FyxP1gehBB2116uP-aBqPv/view?usp=sharing" target="_blank">
+🏃‍♀️‍➡️ Current GPA: 8.3/10. <br>
+🫸 <b>My CV: </b><a href="https://drive.google.com/file/d/1qgWT-W3SeZjZ3QROAqsf9F7Sgdb6TqEb/view?usp=sharing" target="_blank">
 <img align="center" height=25px src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" border-radis=5px/>
-</a> <i>(Last updated: 02/07/2024)<i>
+</a> <i>(Last updated: 22/02/2025)<i>
 
 ### <img align="center" src="./assets/images/phone.gif" width="25px" height="25px"> Contact with me:
 
