@@ -1,11 +1,11 @@
 <img align="right" width=100% height=150px alt="./assets/images/heart_and_star_decorator.gif" src="./assets/images/rainbow.gif" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=3000&lines=Java+Backend+Coder;+I'm+Dam+Hong+Hung!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=3000&lines=Full-stack+Developer;+I'm+Dam+Hong+Hung!;" />
 </h1>
 <p align="center">
   <em>
-    I watch videos on Youtube every day to motivate myself to become <b>a professional Java backend coder</b>.     
+    I try my best to learn new things every day to motivate myself to become <b>a professional software developer</b>.     
   <br>
   <img align="center" src="./assets/images/unicorn_shake.webp" width="50" /> <b align="center">"The more you code, the more bugs you encounter."</b> <img align="center" src="./assets/images/unicorn_smile.gif" width="40" />
 </p>
@@ -17,13 +17,11 @@
 <img align="right" width=30% height=600px alt="side_sticker" src="./assets/images/ufo.gif" />
 
 ### <img align="center" src="./assets/images/angel.gif" width="30px" height="30px"> **_About me_**
-🏆 I usually work with **_Java_** <img src="https://skillicons.dev/icons?i=java" width=13px/> and **_Spring Boot_** <img src="https://skillicons.dev/icons?i=spring" width=13px/><br>
+🏆 On the front-end, I usually work with **ReactJS**, **NextJS**
+🏆 On the back-end, I usually work with **_Java_** <img src="https://skillicons.dev/icons?i=java" width=13px/> and **_Spring Boot_** <img src="https://skillicons.dev/icons?i=spring" width=13px/><br>, **NestJS**
 🌱 I'm currently learning **Message queue: Kafka and RabbitMQ** <br>
 🎉 Next, I'm planning to explore **_Microservice_** <img src="https://skillicons.dev/icons?i=kubernetes" width=13px/>, **_ElasticSearch_** <img src="https://skillicons.dev/icons?i=elasticsearch" width=13px/>, and **_Kubernetes_** <img src="https://skillicons.dev/icons?i=kubernetes" width=13px/><br>
-🏃‍♀️‍➡️ Current GPA: 8.3/10. <br>
-🫸 <b>My CV: </b><a href="https://drive.google.com/file/d/1qgWT-W3SeZjZ3QROAqsf9F7Sgdb6TqEb/view?usp=sharing" target="_blank">
-<img align="center" height=25px src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" border-radis=5px/>
-</a> <i>(Last updated: 22/02/2025)<i>
+🏃‍♀️‍➡️ My GPA: 8.3/10. <br> 
 
 ### <img align="center" src="./assets/images/phone.gif" width="25px" height="25px"> Contact with me:
 
