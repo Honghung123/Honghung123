@@ -17,8 +17,8 @@
 <img align="right" width=30% height=600px alt="side_sticker" src="./assets/images/ufo.gif" />
 
 ### <img align="center" src="./assets/images/angel.gif" width="30px" height="30px"> **_About me_**
-🏆 On the front-end, I usually work with **ReactJS**, **NextJS**
-🏆 On the back-end, I usually work with **_Java_** <img src="https://skillicons.dev/icons?i=java" width=13px/> and **_Spring Boot_** <img src="https://skillicons.dev/icons?i=spring" width=13px/><br>, **NestJS**
+🏆 On the front-end, I usually work with **ReactJS**, **NextJS** <br>
+🏆 On the back-end, I usually work with **_Java_**, **_Spring Boot_**, **NestJS** <br>
 🌱 I'm currently learning **Message queue: Kafka and RabbitMQ** <br>
 🎉 Next, I'm planning to explore **_Microservice_** <img src="https://skillicons.dev/icons?i=kubernetes" width=13px/>, **_ElasticSearch_** <img src="https://skillicons.dev/icons?i=elasticsearch" width=13px/>, and **_Kubernetes_** <img src="https://skillicons.dev/icons?i=kubernetes" width=13px/><br>
 🏃‍♀️‍➡️ My GPA: 8.3/10. <br> 
@@ -37,12 +37,14 @@
 #### Front-end:
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 
 #### Back-end:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp; 
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
 
 #### Another:
 
